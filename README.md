@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/SafaGulAISoftwareEngineer/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0092-reverse-linked-list-ii](https://github.com/SafaGulAISoftwareEngineer/DSA/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/SafaGulAISoftwareEngineer/DSA/tree/master/0206-reverse-linked-list) |
+| [2074-reverse-nodes-in-even-length-groups](https://github.com/SafaGulAISoftwareEngineer/DSA/tree/master/2074-reverse-nodes-in-even-length-groups) |
 ## Recursion
 |  |
 | ------- |
